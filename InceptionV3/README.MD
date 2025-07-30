@@ -12,3 +12,8 @@ The Car Damage Detection System is a deep learning-based image classification pi
 
 - All the required packages are listed in the source file itself, so running the code directly should work without any issues.
 - To reduce the runtime, it is recommended to run the code using a GPU.
+
+## Datasets Used
+
+- Training -> https://www.kaggle.com/datasets/anujms/car-damage-detection
+- Testing -> https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset
