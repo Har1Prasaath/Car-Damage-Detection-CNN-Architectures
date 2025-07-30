@@ -18,4 +18,4 @@ The Car Damage Detection System is a deep learning-based image classification pi
 - Training -> https://www.kaggle.com/datasets/anujms/car-damage-detection
 - Testing -> https://www.kaggle.com/datasets/lplenka/coco-car-damage-detection-dataset
 
-![Architecture Diagram](./InceptionV3/ArchitectureDiagram.png)
+![Architecture Diagram](./ArchitectureDiagram.png)
