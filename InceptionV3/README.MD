@@ -10,5 +10,5 @@ The Car Damage Detection System is a deep learning-based image classification pi
 
 ## How to Run ???
 
-- **All the required packages are listed in the source file itself, so running the code directly should work without any issues.
-- **To reduce the runtime, it is recommended to run the code using a GPU.
+- All the required packages are listed in the source file itself, so running the code directly should work without any issues.
+- To reduce the runtime, it is recommended to run the code using a GPU.
